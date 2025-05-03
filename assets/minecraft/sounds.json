@@ -1,0 +1,13 @@
+{
+	"entity.creeper.primed": {
+		"sounds":[
+			{
+				"name":"rex_creeper:splode",
+				"stream": false,
+				"volume": 1.0,
+				"pitch": 2.0
+			}
+		],
+		"replace":true
+	}
+}
